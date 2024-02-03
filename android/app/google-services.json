@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "427355520885",
+    "project_id": "arqiim-786b9",
+    "storage_bucket": "arqiim-786b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:427355520885:android:d2780d9f7caaa425addd3c",
+        "android_client_info": {
+          "package_name": "com.mycompany.grupoarqiim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB939EpU8ghN0dSBtTM-DQq3jikvg0_RBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
